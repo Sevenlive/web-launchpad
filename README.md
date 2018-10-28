@@ -1,5 +1,9 @@
 # Web Launchpad
 
+Based of the Orginal orlando/web-launchpad
+->Without Web Audio
+->Developed for the Launchpad MK2
+
 Using Web Audio API + Web MIDI Api to sample using a Novation Launchpad.
 Now you can be [Madeon](https://www.youtube.com/watch?v=lTx3G6h2xyA)
 
